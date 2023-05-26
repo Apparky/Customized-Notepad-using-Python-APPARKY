@@ -41,6 +41,17 @@ pyinstaller --onefile -w --hiddenimport=babel.numbers filename.py
 
 
 
+#### OutPut:
+> This is how the Notepad Looks like
+> 
+> 
+> ![OpenCVNotePad](ss/Screenshot%20(80).png)
+> 
+> 
+> 
+
+
+
 
 -------------------
 > 
